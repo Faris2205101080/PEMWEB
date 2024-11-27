@@ -26,7 +26,7 @@ UTS PEMWEB
     <!-- CONTENT 1 -->
     <div class="container-content">
         <a href="https://id.shp.ee/MkMusEt" class="a-content">
-            <img src="LOGO TIKTOK2.png" class="img-content" />
+            <img src="Shopee-logo.jpg" class="img-content" />
             <p>KUNJUNGI TOKO SHOOPE KAMI </p>
         </a>
 
